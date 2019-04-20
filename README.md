@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/zhen0/JGWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Jennifer.  Also know as Jenny or Jen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Software Engineering Student at the Grace Hopper Program at Fullstack Academy in New York.  
+
+
 
 ### Markdown
 
