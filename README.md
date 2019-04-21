@@ -19,7 +19,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Projects
 
-[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) ![Image]()- Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
+[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) ![Image](https://github.com/zhen0/JGWebsite/blob/master/public/Screen%20Shot%202019-04-21%20at%201.34.42%20PM.png) - Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
 
 [90s Shopper](https://nineties-shopper.herokuapp.com/) - An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
 
