@@ -1,6 +1,6 @@
 ## Jennifer Grange
 - [About Me](#about-Me)
-[Skills](#skills)
+- [Skills](#skills)
 - [Projects](#projects)
 - [Blog](#blog)
 - [Linked In and Contact](#contact)
