@@ -1,12 +1,26 @@
 ## Jennifer Grange
 - [About Me](#about-Me)
+[Skills](#skills)
 - [Projects](#projects)
 - [Blog](#blog)
 - [Linked In and Contact](#contact)
 
+### Skills
+- React
+- Node.js
+- Javascript
+- Python
+- React Native
+- Express
+- Postgres SQL
+- Sequelize
+- React/Redux
+- Mocha/Chai
+- Heroku (with Travis CI)
+
 ### About Me
 
-I'm Jennifer.  Also know as Jenny or Jen.
+I'm Jennifer.  Also known as Jenny or Jen.
 
 I'm a Software Engineering Student at the Grace Hopper Program at Fullstack Academy in New York.  
 
