@@ -33,7 +33,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
  - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](https://snack.expo.io/@jennyg/pramshare).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. (Still very much a work in progress!)
 
 ### Blog
- - [Mummy, Whats This?](https://github.com/zhen0/JGWebsite/blob/master/Another.md)
+ - [Mummy, Whats This?](What'sThis?)
 
 ### Contact
 
