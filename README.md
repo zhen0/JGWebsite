@@ -4,7 +4,9 @@ I'm Jennifer.  Also know as Jenny or Jen.
 
 I'm a Software Engineering Student at the Grace Hopper Program at Fullstack Academy in New York.  
 
+I started coding after my husband's persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
 
+Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC and I previously spent ten years as a diplomat for the British government, helping with win Chinese support for the first successful UN resolution against the DPRKs nuclear program. 
 
 ### Markdown
 
