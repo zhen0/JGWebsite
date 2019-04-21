@@ -18,7 +18,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 [Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) 
 
-![Image](public/Screen Shot 2019-04-21 at 1.47.33 PM.png) 
+![Image](public/Screen Shot 2019-04-21 at 1.34.42 PM.png) 
 
 - Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
 
