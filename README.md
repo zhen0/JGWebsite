@@ -37,6 +37,6 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Contact
 
-Linked In [www.linkedin.com/in/jennifer-grange-nyc](www.linkedin.com/in/jennifer-grange-nyc)
+Linked In [www.linkedin.com/in/jennifer-grange-nyc](https://www.linkedin.com/in/jennifer-grange-nyc)
 
 Email <jg@jennifergrange.com>
