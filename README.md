@@ -19,11 +19,19 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Projects
 
-[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) ![Image](https://github.com/zhen0/JGWebsite/blob/master/public/Screen%20Shot%202019-04-21%20at%201.34.42%20PM.png) - Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
+[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) 
 
-[90s Shopper](https://nineties-shopper.herokuapp.com/) ![image]() - An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
+![Image](https://github.com/zhen0/JGWebsite/blob/master/public/Screen%20Shot%202019-04-21%20at%201.34.42%20PM.png) 
 
-[PramShare](https://pramshare.herokuapp.com/) ![image](https://github.com/zhen0/JGWebsite/blob/master/public/Screen%20Shot%202019-04-21%20at%201.47.33%20PM.png) (still very much a work in progress!) - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](exp://192.168.7.55:19000).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. 
+- Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
+
+[90s Shopper](https://nineties-shopper.herokuapp.com/)  - An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
+
+[PramShare](https://pramshare.herokuapp.com/) 
+
+![image](https://github.com/zhen0/JGWebsite/blob/master/public/Screen%20Shot%202019-04-21%20at%201.47.33%20PM.png) 
+
+(still very much a work in progress!) - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](exp://192.168.7.55:19000).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. 
 
 ### Blog
 
