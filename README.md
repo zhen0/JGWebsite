@@ -34,6 +34,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Blog
  - [Mummy, Whats This?](whats-this.md)
+ - [Creating an App to share our stuff](share.md)
 
 ### Contact
 
