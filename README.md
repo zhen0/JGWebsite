@@ -4,7 +4,7 @@
 
 
 
-### About Me (#About-Me)
+(#About-Me)
 
 I'm Jennifer.  Also know as Jenny or Jen.
 
