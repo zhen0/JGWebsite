@@ -2,10 +2,7 @@
 - [About Me](#about-Me)
 - [Projects](#projects)
 - [Blog](#blog)
-
-
-
-
+- [Linked In and Contact](#contact)
 
 ### About Me
 
@@ -36,33 +33,9 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
  - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](exp://192.168.7.55:19000).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. (Still very much a work in progress!)
 
 ### Blog
+ - Mummy, Whats This?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhen0/JGWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Linked In [www.linkedin.com/in/jennifer-grange-nyc](www.linkedin.com/in/jennifer-grange-nyc)
+Email [mailto](mailto:jg@jennifergrange.com)
