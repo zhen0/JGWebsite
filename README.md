@@ -1,10 +1,13 @@
 ## Welcome!
 [About Me](#About-Me)
+[Projects] (#Projects)
 
 
 
 
-(#About-Me)
+
+
+### About Me
 
 I'm Jennifer.  Also know as Jenny or Jen.
 
@@ -14,7 +17,11 @@ I started coding after my husband's persuaded me to join him in a Codecademy int
 
 Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC and I previously spent ten years as a diplomat for the British government, where my political reporting to the UN helped win Chinese support for the first successful UN resolution against the DPRK's nuclear program. 
 
+### Projects
 
+[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) - Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
+90s Shopper - An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
+PramShare (still very much a work in progress!) - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic React Native app version on Expo. (exp://192.168.7.55:19000)  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
