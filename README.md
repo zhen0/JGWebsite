@@ -1,6 +1,6 @@
 ## Welcome!
-[About Me](#about-Me)
-[Projects] (#projects)
+- [About Me](#about-Me)
+- [Projects] (#projects)
 
 
 
