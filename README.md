@@ -1,4 +1,4 @@
-## Welcome!
+## Jennifer Grange
 - [About Me](#about-Me)
 - [Projects](#projects)
 - [Blog](#blog)
