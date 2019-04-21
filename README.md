@@ -1,7 +1,7 @@
 ## Welcome!
 - [About Me](#about-Me)
 - [Projects](#projects)
-
+- [Blog](#blog)
 
 
 
@@ -19,11 +19,13 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Projects
 
-[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) - Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
+[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) ![Image]()- Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
 
 [90s Shopper](https://nineties-shopper.herokuapp.com/) - An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
 
-[PramShare](https://pramshare.herokuapp.com/) (still very much a work in progress!) - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](exp://192.168.7.55:19000)  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. 
+[PramShare](https://pramshare.herokuapp.com/) (still very much a work in progress!) - My individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](exp://192.168.7.55:19000).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community. 
+
+### Blog
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
