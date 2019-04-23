@@ -48,7 +48,12 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
  - My on-going individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](https://snack.expo.io/@jennyg/pramshare).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community.
 
-### Blog (Please be aware that these are working drafts)
+[Python Murder Mystery](https://github.com/zhen0/PythonProjects)
+
+- The project that started my love of code. Using Python I analyzed hand writing samples to find whose language use most closely matched that of the "murderer".
+
+### Blog 
+(Please be aware that these are working drafts)
  - [Mummy, Whats This? - The Surprisingly Similar Steps To Identify “This” In Javascript And The World Of A Toddler.](whats-this.md)
  - [Creating an App to share our stuff](share.md)
  - [Error: 'assets/icon.png' could not be found…. A Journey Into the World and Bugs of React Native, Redux and Expo ](expo.md) 
