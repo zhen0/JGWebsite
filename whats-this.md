@@ -57,7 +57,7 @@ print: printMyName
 }`
 
 `object2.print()
-------> Ted`
+---> Ted`
 
 ### What about functions?
 
