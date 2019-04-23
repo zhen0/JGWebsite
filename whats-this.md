@@ -41,22 +41,22 @@ For example, my daughter’s leaf could be tree.leaf in javascript, which would 
 
 `function printMyName () {
 console.log(this.name)
-}
+}`
 
-const object1 ={
+`const object1 ={
 name: 'Bill',
 print: printMyName
-}
+}`
 
-object1.print()
----> Bill
+`object1.print()
+---> Bill`
 
-const object2 ={
+`const object2 ={
 name: 'Ted',
 print: printMyName
-}
+}`
 
-object2.print()
+`object2.print()
 ------> Ted`
 
 ### What about functions?
