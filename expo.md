@@ -16,4 +16,4 @@ Error: 'assets/icon.png' could not be found, because 'assets' is not a subdirect
 
 This was on the master branch from git. I’d committed a version that I knew was working and now it’s not.  What the heck???!!!
 
-At this point I’ve decided to let the issue percolate at the back of my mind while I work on other problems...
+At this point I’ve decided to let the issue percolate at the back of my mind while I work on my Grace Hopper projects. But I'll be returning to tackle this again! 
