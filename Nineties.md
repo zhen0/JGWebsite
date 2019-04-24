@@ -9,4 +9,4 @@ We decided to use Git Hub's project board to manage our work and map out our use
 The other major aspect of planning was mapping out our schema, which we re-visited twice as our project went on.  The photos below show our orginal schema and then the additions we made to add an items table that we could eagerly-load to show quantity in our cart. 
 
 ![image](public/Schema1.jpg)
-![image](public/Schema2.png)
+![image](public/Schema2.jpg)
