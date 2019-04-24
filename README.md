@@ -40,6 +40,8 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 [90s Shopper](https://nineties-shopper.herokuapp.com/)  
 
+![image](public/90s.png)
+
 - An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
 
 [PramShare](https://pramshare.herokuapp.com/) 
