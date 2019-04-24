@@ -59,7 +59,8 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
  - [Mummy, Whats This? - The Surprisingly Similar Steps To Identify “This” In Javascript And The World Of A Toddler.](whats-this.md)
  - [Creating an App to share our stuff](share.md)
  - [Error: 'assets/icon.png' could not be found…. A Journey Into the World and Bugs of React Native, Redux and Expo ](expo.md) 
-- [Nineties Shopper - Now I Want to See Amazon's Back-end!](nineties.md)
+- [Nineties Shopper - Now I Want to See Amazon's Back-end!](Nineties.md)
+
 ### Contact
 
 Linked In [www.linkedin.com/in/jennifer-grange-nyc](https://www.linkedin.com/in/jennifer-grange-nyc)
