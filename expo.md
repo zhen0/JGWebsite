@@ -17,3 +17,5 @@ Error: 'assets/icon.png' could not be found, because 'assets' is not a subdirect
 This was on the master branch from git. I’d committed a version that I knew was working and now it’s not.  What the heck???!!!
 
 At this point I’ve decided to let the issue percolate at the back of my mind while I work on my Grace Hopper projects. But I'll be returning to tackle this again! 
+
+As a follow up note, I encountered similar issues in my hackathon project baseball bandersnatch. After some investigation, I think it's a versions issue and I decided to tackle react native without redux. It's been a good reminder of the basics of react and using the home component as a kind of store in react gave me similar functionality as redux. 
