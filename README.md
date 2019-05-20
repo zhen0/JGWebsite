@@ -32,7 +32,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Projects
 
-[Code {Aloud}](codealoud.gq)
+[Code {Aloud}](https://codealoud.herokuapp.com/login)
 
 ![Image](public/Screen Shot 2019-05-20 at 10.16.20 AM.png)
 - A technical interview preparation site that focuses on technical communication skills. 
