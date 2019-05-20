@@ -34,6 +34,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 [Code {Aloud}](codealoud.gq)
 
+![Image](public/Screen Shot 2019-05-20 at 10.16.20 AM.png)
 - A technical interview preparation site that focuses on technical communication skills. 
 - Built with react, redux, node with express, sequelize, postgresql, recharts, code-sandbox, jest and Annyang. 
 - Lead on Annyang Speech Recognition implementation. 
