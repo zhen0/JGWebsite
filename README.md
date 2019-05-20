@@ -32,6 +32,12 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 
 ### Projects
 
+[Code {Aloud}](codealoud.gq)
+
+- A technical interview preparation site that focuses on technical communication skills. 
+- Built with react, redux, node with express, sequelize, postgresql, recharts, code-sandbox, jest and Annyang. 
+- Lead on Annyang Speech Recognition implementation. 
+
 [Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) 
 
 ![Image](public/Screen Shot 2019-04-21 at 1.34.42 PM.png) 
