@@ -39,6 +39,7 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 - Built with react, redux, node with express, sequelize, postgresql, recharts, code-sandbox, jest and Annyang. 
 - Lead on Annyang Speech Recognition implementation. 
 
+
 [Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) 
 
 ![Image](public/Screen Shot 2019-04-21 at 1.34.42 PM.png) 
@@ -56,6 +57,10 @@ Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC 
 ![image](public/Screen Shot 2019-04-21 at 1.47.33 PM.png) 
 
  - My on-going individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](https://snack.expo.io/@jennyg/pramshare).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community.
+ 
+ [Baseball Bandersnatch](https://expo.io/@jennyg/baseball)
+ 
+ - An Ed-Tech app aimed at engaging my former English Language Learners who loved baseball .
 
 [Python Murder Mystery](https://github.com/zhen0/PythonProjects)
 
