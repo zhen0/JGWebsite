@@ -1,9 +1,9 @@
 ## Welcome!
 - [About Me](#about-Me)
-- [My Resume](Jennifer_Grange.pdf)
 - [Skills](#skills)
 - [Projects](#projects)
 - [Blog](#blog)
+- [Resume](Jennifer_Grange.pdf)
 - [Linked In and Contact](#contact)
 
 ### About Me
