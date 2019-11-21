@@ -10,7 +10,7 @@
 
 I'm Jennifer.  Also known as Jenny or Jen.
 
-I'm a Software Engineering Student at the Grace Hopper Program at Fullstack Academy in New York.  
+I'm a Frontend Engineer at [Prefect](https://www.prefect.io/) and was previously a Software Engineering Student at the Grace Hopper Program at Fullstack Academy in New York.  
 
 I started coding after my husband's persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
 
