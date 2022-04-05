@@ -10,12 +10,11 @@
 
 I'm Jennifer.  Also known as Jenny or Jen.
 
-I'm a Frontend Engineer at [Prefect](https://www.prefect.io/) and was previously a Software Engineering Student at the Grace Hopper Program at Fullstack Academy in New York.  
+I'm a Engineering Manager at [Prefect](https://www.prefect.io/) and was previously a team lead and a software engineer focussing on our UI.  Before I joined Prefect in 2019, I was a software engineering student at the Grace Hopper Program at Fullstack Academy in New York.  
 
-I started coding after my husband's persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
+I started coding after my husband persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
 
-Before I got the coding bug, I was a teacher at Emma Lazarus High School in NYC and I previously spent ten years as a diplomat for the British government, where my political reporting to the UN helped win Chinese support for the first successful UN resolution against the DPRK's nuclear program. 
-
+Before I got the coding bug, I spent over ten years as a diplomat for the British government, where I had fun working in Beijing, China; reporting on the DPRK (and trying to help slow down it's nuclear program); helping the Mexican and Afghan governments build their own robust teams to counter corruption; and developing some expertise in detecting deception and negotiation. 
 
 ### Skills
 - React
