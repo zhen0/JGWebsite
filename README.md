@@ -14,7 +14,7 @@ I'm a Engineering Manager at [Prefect](https://www.prefect.io/) and was previous
 
 I started coding after my husband persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
 
-Before I got the coding bug, I spent over ten years as a diplomat for the British government, where I had fun working in Beijing, China; reporting on the DPRK (and trying to help slow down it's nuclear program); helping the Mexican and Afghan governments build their own robust teams to counter corruption; and developing some expertise in detecting deception and negotiation. 
+Before I got the coding bug, I spent over ten years as a diplomat for the British government, where I had fun working in Beijing, China; reporting on the DPRK (and trying to help slow down it's nuclear program); helping the Mexican and Afghan governments build their own robust teams to counter corruption; and learning lots of fun things about detecting deception and negotiation. 
 
 ### Skills
 - React
