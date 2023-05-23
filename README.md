@@ -12,7 +12,7 @@ I'm Jennifer.  Also known as Jenny or Jen.
 
 I'm a Engineering Manager at [Prefect](https://www.prefect.io/) and was previously a lead engineer focussing on our UI.  Before I joined Prefect in 2019, I was a software engineering student at the Grace Hopper Program at Fullstack Academy in New York.  
 
-I love working with engineers to create a high quality product and a happy and performant team. I've led engineers from across the stack at Prefect to build out both our UI and our orchestration product and I have hired great engineers to work in the teams I lead. I still love coding and regularly build Prefect flows in python and make contributions to our UI using Vue.js and Typescript. 
+I love working with engineers to create a high quality product and to build a happy and performant team. I've led engineers from across the stack at Prefect to build out both our orchestration product and our and UI and I have hired great engineers to work in the teams I lead. I still love coding and regularly build Prefect flows in python and make contributions to our UI using Vue.js and Typescript. 
 
 I started coding after my husband persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
 
@@ -45,6 +45,10 @@ Before I got the coding bug, I spent over ten years as a diplomat for the Britis
 [Top three challenges facing engineering leaders today](https://dzone.com/articles/the-top-3-challenges-facing-engineering-leaders-to)
 
 - Also published in Dzone, this article focusses on hiring, managing team morale and balancing the demands of the product roadmap with engineer choice. 
+
+[Needs Approval](https://medium.com/the-prefect-blog/needs-approval-184f2512a3cf)
+
+- One of several articles I've written for Prefect over the years.  This one covers the process of pausing and resuming a flow run. 
 
 (Some older articles - please be aware that these are working drafts)
  - [Mummy, Whats This? - The Surprisingly Similar Steps To Identify “This” In Javascript And The World Of A Toddler.](whats-this.md)
