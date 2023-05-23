@@ -2,7 +2,7 @@
 - [About Me](#about-Me)
 - [Skills](#skills)
 - [Projects](#projects)
-- [Blog](#blog)
+- [Writing](#writing)
 - [Resume](Jennifer_Grange.pdf)
 - [Linked In and Contact](#contact)
 
@@ -10,68 +10,56 @@
 
 I'm Jennifer.  Also known as Jenny or Jen.
 
-I'm a Engineering Manager at [Prefect](https://www.prefect.io/) and was previously a team lead and a software engineer focussing on our UI.  Before I joined Prefect in 2019, I was a software engineering student at the Grace Hopper Program at Fullstack Academy in New York.  
+I'm a Engineering Manager at [Prefect](https://www.prefect.io/) and was previously a lead engineer focussing on our UI.  Before I joined Prefect in 2019, I was a software engineering student at the Grace Hopper Program at Fullstack Academy in New York.  
+
+I love working with engineers to create a high quality product and a happy and performant team. I've led engineers from across the stack at Prefect to build out both our UI and our orchestration product and I have hired great engineers to work in the teams I lead. I still love coding and regularly build Prefect flows in python and make contributions to our UI using Vue.js and Typescript. 
 
 I started coding after my husband persuaded me to join him in a Codecademy intensive course to learn python. Although he didn't actually have time to finish the course, I loved it and decided I wanted to learn more. After a bit research, I found the Grace Hopper program and got excited about the chance to learn to code. 
 
 Before I got the coding bug, I spent over ten years as a diplomat for the British government, where I had fun working in Beijing, China; reporting on the DPRK (and trying to help slow down it's nuclear program); helping the Mexican and Afghan governments build their own robust teams to counter corruption; and learning lots of fun things about detecting deception and negotiation. 
 
-### Skills
-- React
-- Node.js
-- Javascript
-- Python
-- React Native
-- Express
-- Postgres SQL
-- Sequelize
-- React/Redux
-- Mocha/Chai
-- Heroku (with Travis CI)
-
 
 ### Projects
 
-[Code {Aloud}](https://codealoud.herokuapp.com/login)
+[Prefect](https://github.com/PrefectHQ/prefect)
 
-![Image](public/Screen Shot 2019-05-20 at 10.16.20 AM.png)
-- A technical interview preparation site that focuses on technical communication skills. 
-- Built with react, redux, node with express, sequelize, postgresql, recharts, code-sandbox, jest and Annyang. 
-- Lead on Annyang Speech Recognition implementation. 
+- The Prefect python and vue.js open source code base
 
+[Prefect-UI-Library](https://github.com/PrefectHQ/prefect-ui-library)
 
-[Game of Life](https://zhen0.github.io/PairProject.Game-of-life/) 
+- The open source UI library that feeds into our main Prefect product.  This is the code that I and my team built over the last few years. 
 
-![Image](public/Screen Shot 2019-04-21 at 1.34.42 PM.png) 
+[Prefect-Design](https://github.com/PrefectHQ/prefect-design)
 
-- Conway's Game of Life built with React and Redux. You can choose your own or a random configuration, and then move a step at a time or play continuously.
-
-[90s Shopper](https://nineties-shopper.herokuapp.com/)  
-
-![image](public/90s.png)
-
-- An E-Commerce Site built using React, Express and Sequellize and delployed with Heroku and Travis.
-
-[PramShare](https://pramshare.herokuapp.com/) 
-
-![image](public/Screen Shot 2019-04-21 at 1.47.33 PM.png) 
-
- - My on-going individual side project built with React, Express and Sequellize and deployed with Heroku.  I also have a basic [React Native app version on Expo](https://snack.expo.io/@jennyg/pramshare).  The aim for this project is to build a  resource for sharing equipment such as bikes, bike seats, strollers and toys for my local community.
- 
- [Baseball Bandersnatch](https://expo.io/@jennyg/baseball)
- 
- - An Ed-Tech app aimed at engaging my former English Language Learners who loved baseball .
+- The open source Vue.js component library built and maintained by my team. 
 
 [Python Murder Mystery](https://github.com/zhen0/PythonProjects)
 
 - The project that started my love of code. Using Python I analyzed hand writing samples to find whose language use most closely matched that of the "murderer".
 
-### Blog 
-(Please be aware that these are working drafts)
+### Writing
+[Tips for success as product and engineering grow](https://dzone.com/articles/3-tips-for-success-as-product-and-engineering-grow)
+
+- An article published in Dzone about working with a product team while encouraging engineers to have their own product understanding.
+
+[Top three challenges facing engineering leaders today](https://dzone.com/articles/the-top-3-challenges-facing-engineering-leaders-to)
+
+- Also published in Dzone, this article focusses on hiring, managing team morale and balancing the demands of the product roadmap with engineer choice. 
+
+(Some older articles - please be aware that these are working drafts)
  - [Mummy, Whats This? - The Surprisingly Similar Steps To Identify “This” In Javascript And The World Of A Toddler.](whats-this.md)
  - [Creating an App to share our stuff](share.md)
  - [Error: 'assets/icon.png' could not be found…. A Journey Into the World and Bugs of React Native, Redux and Expo ](expo.md) 
 - [Nineties Shopper - Now I Want to See Amazon's Back-end!](Nineties.md)
+
+### Skills
+
+- Leadership
+- Collaboration
+- Negotiation
+- Vue 3
+- Typescript
+- Javascript
 
 ### Contact
 
