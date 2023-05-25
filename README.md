@@ -1,5 +1,5 @@
 ## Welcome!
-- [About Me](#about-Me)
+- [About Me](#current)
 - [Skills](#skills)
 - [Projects](#projects)
 - [Writing](#writing)
@@ -8,11 +8,11 @@
 
 ### Current (2019 - now)
 
-I'm a Engineering Manager at [Prefect](https://www.prefect.io/), managing a full-stack team of 7 developers. 
+I'm an Engineering Manager at [Prefect](https://www.prefect.io/), managing a full-stack team of 7 developers. 
 
 I love working with engineers to create a high quality product and to build a happy and high-performing team. I've led engineers from across the stack, building out both our orchestration product and our web UI. I have helped hired great colleagues from junior devs to staff engineers. 
 
-Before taking on management I was a front-end lead engineer. I still love coding and regularly build Prefect flows in Python and make contributions to our UI using Vue.js and Typescript. 
+Before taking on management I was a lead engineer at Prefect focussed mainly on our UI. I still love coding and regularly build Prefect flows in Python and make contributions to our UI using Vue.js and Typescript. 
 
 Before I joined Prefect in 2019, I was a software engineering student at the Grace Hopper Program at Fullstack Academy in New York.  
 
@@ -21,7 +21,6 @@ I started coding after my husband persuaded me to join him in a Codecademy inten
 ### Prior experience
 
 Before I got the coding bug, I spent over ten years as a diplomat for the British government, where I had fun working in Beijing, China; reporting on the DPRK (and trying to help slow down it's nuclear program); helping the Mexican and Afghan governments build their own robust teams to counter corruption; and learning lots of fun things about detecting deception and negotiation. 
-
 
 ### Projects
 
@@ -63,7 +62,7 @@ One of several articles I've written for Prefect over the years.  This one cover
 - Vue 3
 - Typescript
 - Javascript
-- Chinese (Madarin): fluent
+- Mandarin Chinese
 
 ### Contact
 
