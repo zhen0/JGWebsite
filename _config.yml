@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Jennifer Grange
-description: Exploring the Potential of Code
+description: Software Engineering Manager
 logo: public/JG.png
+github: 
+  is_project_page: false
