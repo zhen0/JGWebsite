@@ -64,7 +64,6 @@ One of several articles I've written for Prefect over the years.  This one cover
 - Typescript
 - Javascript
 - Chinese (Madarin): fluent
-- French: intermediate
 
 ### Contact
 
