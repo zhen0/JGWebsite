@@ -8,11 +8,11 @@ I planned an app that would work with the sharing app I had already built (part 
 
 So far so good.  But when I tried to add Redux and connect to the store, I hit a problem when I tried to use ‘connect’.  (Eerily similar to the issue I had a few days ago when setting up Redux in my web-app…).  The error message (in a scary big red screen - thanks Expo!) was: 
 
-Uncaught Invariant Violation: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object.
+`Uncaught Invariant Violation: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object`
 
-Some reading around (especially here) made me think I’d maybe imported or exported a component incorrectly, perhaps forgetting {} around the import of an export or maybe adding {} around an import of an export default.  However, I double-checked and my imports and exports all looked good.  Further reading suggested I maybe should try updating my React Native version.  I gave it a break, thinking fresh eyes might help… then came back to another error!
+Some reading around (especially here) made me think I’d maybe imported or exported a component incorrectly, perhaps forgetting `{}` around the import of an export or maybe adding `{}` around an import of an export default.  However, I double-checked and my imports and exports all looked good.  Further reading suggested I maybe should try updating my React Native version.  I gave it a break, thinking fresh eyes might help… then came back to another error!
 
-Error: 'assets/icon.png' could not be found, because 'assets' is not a subdirectory of any of the roots
+`Error: 'assets/icon.png' could not be found, because 'assets' is not a subdirectory of any of the roots`
 
 This was on the master branch from git. I’d committed a version that I knew was working and now it’s not.  What the heck???!!!
 

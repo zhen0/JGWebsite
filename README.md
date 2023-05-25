@@ -1,12 +1,12 @@
 ## Welcome!
-- [About Me](#current)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Writing](#writing)
-- [Resume](Jennifer_Grange.pdf)
-- [LinkedIn and Contact](#contact)
 
-### Current (2019 - now)
+🏗️ [Projects](#projects)
+📝 [Writing](#writing)
+📜 [Resume](Jennifer_Grange.pdf)
+👩‍💻 [Skills](#skills)
+📧 [LinkedIn and Contact](#contact)
+
+### Current (2019 - present)
 
 I'm an Engineering Manager at [Prefect](https://www.prefect.io/), managing a full-stack team of 7 developers. 
 
@@ -46,11 +46,11 @@ Also published in Dzone, this article focusses on hiring, managing team morale a
 
 One of several articles I've written for Prefect over the years.  This one covers the process of pausing and resuming a flow run. 
 
-[Mummy, Whats This? - The Surprisingly Similar Steps To Identify “This” In Javascript And The World Of A Toddler.](whats-this.md)
+[Mummy, Whats This?](whats-this.md) The Surprisingly Similar Steps To Identify “This” In Javascript And The World Of A Toddler.
 
-[Creating an App to share our stuff](share.md)
+[ShareStuff App](share.md)
 
-[Error: 'assets/icon.png' could not be found…. A Journey Into the World and Bugs of React Native, Redux and Expo ](expo.md) 
+[Error: 'assets/icon.png' could not be found… ](expo.md) :A Journey Into the World and Bugs of React Native, Redux and Expo 
 
 [Nineties Shopper - Now I Want to See Amazon's Back-end!](Nineties.md)
 
