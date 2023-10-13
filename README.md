@@ -34,6 +34,11 @@ Before I got the coding bug, I spent over ten years as a diplomat for the Britis
 
 
 ### Writing
+
+[How to Conduct Better Coding Interviews](https://builtin.com/software-engineering-perspectives/better-coding-interview)
+
+Co-written with our staff engineer, Chris Guidry, this BuiltIn article gives our solution to hiring engineers in the era of AI. 
+
 [Tips for success as product and engineering grow](https://dzone.com/articles/3-tips-for-success-as-product-and-engineering-grow)
 
 An article published in Dzone about working with a product team while encouraging engineers to have their own product understanding.
