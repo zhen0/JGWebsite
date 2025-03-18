@@ -53,5 +53,3 @@ The main focus of our 1:1s should be your growth, challenges, and well-being. Th
 I encourage you to keep a running document of discussion points that we can both access and update. This helps us track our conversations and follow up on action items.
 
 I believe all meetings should have a clear goal and outcome. Every meeting I organize will have an agenda and purpose, and I expect the same from you when you schedule meetings. I will experiment with the cadence and format of team meetings to find what works best for our needs and welcome your feedback on what's effective. 
-
-As our primary focus should be product teams, I'll create regular touchpoints where we can share updates, take questions, and ensure we all have the same shared context. I'm always open to suggestions on how to make our collaboration more efficient and productive.
