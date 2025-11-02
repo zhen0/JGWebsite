@@ -40,6 +40,10 @@ Before I got the coding bug, I spent over ten years as a diplomat for the Britis
 
 Co-written with our staff engineer, Chris Guidry, this BuiltIn article gives our solution to hiring engineers in the era of AI. 
 
+[Simple Scheduling - How I used Prefect to remove the hassle of meal prep](meal-planner.md)
+
+Using Prefect and Pydantic AI to build a durable execution agent that runs on schedule and figures out what my family should eat each week. 
+
 [Tips for success as product and engineering grow](https://dzone.com/articles/3-tips-for-success-as-product-and-engineering-grow)
 
 An article published in Dzone about working with a product team while encouraging engineers to have their own product understanding.
