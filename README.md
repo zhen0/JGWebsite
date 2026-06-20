@@ -9,7 +9,7 @@
 
 ### Current (2019 - now)
 
-I'm a Director of Engineering at [Prefect](https://www.prefect.io/), managing a full-stack team of developers. 
+I'm Head of Engineering at [Prefect](https://www.prefect.io/), managing a full-stack team of developers. 
 
 I love working with engineers to create a high quality product and to build a happy and high-performing team. I've led engineers from across the stack, building out both our orchestration product and our web UI. I have helped hired great colleagues from junior devs to staff engineers. 
 
